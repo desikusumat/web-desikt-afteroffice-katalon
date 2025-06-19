@@ -3,7 +3,7 @@
    <description></description>
    <name>alert_invalid_login</name>
    <tag></tag>
-   <elementGuidId>6d95532c-ba1a-4647-99af-178c7feb0b21</elementGuidId>
+   <elementGuidId>9daf8c23-bf44-458c-a65a-24bb69cbc417</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id=&quot;name&quot;]</value>
-      <webElementGuid>70049930-4f09-4130-ae67-90435ad2ac39</webElementGuid>
+      <webElementGuid>eb8c36ad-068a-402d-87c6-32ec823b8957</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

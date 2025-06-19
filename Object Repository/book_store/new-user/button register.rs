@@ -3,7 +3,7 @@
    <description></description>
    <name>button register</name>
    <tag></tag>
-   <elementGuidId>3250bdc2-9a10-4db6-8e02-92324a5519ed</elementGuidId>
+   <elementGuidId>2144cbef-41c5-4ce0-b37d-f50db44d6cea</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>register</value>
-      <webElementGuid>7c9cc8ba-96b1-4b6c-9110-35bb0af2129d</webElementGuid>
+      <webElementGuid>6cf32951-f69d-4221-9dba-9b87b6639923</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

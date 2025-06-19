@@ -3,7 +3,7 @@
    <description></description>
    <name>firstname</name>
    <tag></tag>
-   <elementGuidId>4fa4fe39-2516-4980-84c3-2fda800e67b5</elementGuidId>
+   <elementGuidId>3e9838c8-8e1f-4403-8416-421f1457898c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>firstname</value>
-      <webElementGuid>aedefe4c-affd-4d86-a33f-2efa07c91992</webElementGuid>
+      <webElementGuid>6500e2ed-8e56-48f5-b6bc-8c94e55a1fe4</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

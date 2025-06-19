@@ -3,7 +3,7 @@
    <description></description>
    <name>alert captcha</name>
    <tag></tag>
-   <elementGuidId>cd0c38a9-ab52-4d84-900a-648e5d5b0370</elementGuidId>
+   <elementGuidId>8f15e208-7563-4e35-aa20-ece1e6e0dc98</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>8f83ed7d-93b5-4846-bb77-28b4ef8ec1c7</webElementGuid>
+      <webElementGuid>aa0da28d-5da9-419f-b4d7-05933ebc8eee</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

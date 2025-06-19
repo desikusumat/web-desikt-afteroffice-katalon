@@ -3,7 +3,7 @@
    <description></description>
    <name>username</name>
    <tag></tag>
-   <elementGuidId>4910c02d-ef73-4374-a3a1-eda48bc79a6a</elementGuidId>
+   <elementGuidId>b724469a-7409-4bfc-ab78-4e0b16c18fde</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>userName</value>
-      <webElementGuid>2d491f46-deea-47fb-a4bd-cd1323aa3fb3</webElementGuid>
+      <webElementGuid>4fe4a143-0284-4bb1-b4d5-7d7598e066c1</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -5,56 +5,56 @@
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>a6af8e6b-2b45-4755-ad6f-9184ef0271fe</testCaseGuid>
+   <testCaseGuid>f9df105d-6906-4388-a771-24ef15f0cfc4</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>1ace37c9-4df7-4b4a-8b26-8ccf198428d6</variableId>
+      <variableId>e222c382-5d54-4eed-9730-e65c7dbbf140</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>4855614a-c07f-471f-9424-bbbfaa97eef4</variableId>
+      <variableId>4b5ad86a-10b2-4518-bee2-9b4591e763b1</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>7731c55b-4684-49ce-98d3-b748d096cfc5</variableId>
+      <variableId>d28299f6-fc1d-46de-b320-0c917b673f1a</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>cd287a89-dd4a-4217-9a6c-7d8646b3a864</variableId>
+      <variableId>fc9c4095-5894-4df9-9d5f-0afef2e41623</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'P'</defaultValue>
       <description></description>
-      <id>1ace37c9-4df7-4b4a-8b26-8ccf198428d6</id>
+      <id>e222c382-5d54-4eed-9730-e65c7dbbf140</id>
       <masked>false</masked>
       <name>type</name>
    </variable>
    <variable>
       <defaultValue>'testdesi12345'</defaultValue>
       <description></description>
-      <id>4855614a-c07f-471f-9424-bbbfaa97eef4</id>
+      <id>4b5ad86a-10b2-4518-bee2-9b4591e763b1</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>'B@ndung123.'</defaultValue>
       <description></description>
-      <id>7731c55b-4684-49ce-98d3-b748d096cfc5</id>
+      <id>d28299f6-fc1d-46de-b320-0c917b673f1a</id>
       <masked>false</masked>
       <name>password</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>cd287a89-dd4a-4217-9a6c-7d8646b3a864</id>
+      <id>fc9c4095-5894-4df9-9d5f-0afef2e41623</id>
       <masked>false</masked>
       <name>expectedresult</name>
    </variable>

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_login</name>
    <tag></tag>
-   <elementGuidId>6fe193d9-dad7-4f79-b416-8d0b45790b27</elementGuidId>
+   <elementGuidId>d1e59411-c843-4e08-b03a-f6a101ec6f12</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>login</value>
-      <webElementGuid>d91cbac1-6a1d-432a-8bd4-2888cb0c593f</webElementGuid>
+      <webElementGuid>d1e04243-bea4-4f86-8117-91f9812ceeb5</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

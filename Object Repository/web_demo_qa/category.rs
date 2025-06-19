@@ -3,17 +3,17 @@
    <description></description>
    <name>category</name>
    <tag></tag>
-   <elementGuidId>a49a98f5-8f91-424d-aee4-0557e6c955a5</elementGuidId>
+   <elementGuidId>36398b7b-6bbe-43c4-a2cd-4ee5129ffea9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@id=&quot;app&quot;]/div/div/div[2]/div</value>
-      </entry>
       <entry>
          <key>CSS</key>
       </entry>
       <entry>
          <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div/div[2]/div</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -34,6 +34,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id=&quot;app&quot;]/div/div/div[2]/div</value>
-      <webElementGuid>d6ef7698-6c36-45f4-9baa-27ec1b7c1307</webElementGuid>
+      <webElementGuid>9f414692-ad38-4bea-b531-28b4413bfda3</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

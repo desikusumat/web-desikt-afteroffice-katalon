@@ -3,7 +3,7 @@
    <description></description>
    <name>success_login</name>
    <tag></tag>
-   <elementGuidId>e7b822a4-6aac-45f0-8315-b2f4ea75e7ea</elementGuidId>
+   <elementGuidId>9852f381-67cc-415e-8bf6-1849108aa0a8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>books-wrapper</value>
-      <webElementGuid>cee90dd3-c38e-4cf9-b4dc-2ed771cea7fd</webElementGuid>
+      <webElementGuid>86de7a73-b707-4ea0-b5a7-0108f6c7353a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>alert field</name>
    <tag></tag>
-   <elementGuidId>7ff4759a-5b05-46e1-ab5d-f21180fc19e6</elementGuidId>
+   <elementGuidId>15658979-6232-41f1-a9aa-49a2b6a959a1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>class</name>
       <type>Main</type>
       <value>mr-sm-2 is-invalid form-control</value>
-      <webElementGuid>fb26d4ea-7a3f-40fc-b092-12abac79c888</webElementGuid>
+      <webElementGuid>015de175-c946-4ea3-a18d-0ef7ad84eb49</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

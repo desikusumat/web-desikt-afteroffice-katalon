@@ -3,7 +3,7 @@
    <description></description>
    <name>button back login</name>
    <tag></tag>
-   <elementGuidId>578149a4-f954-42eb-a12f-45b789b3f80a</elementGuidId>
+   <elementGuidId>3362caec-68b9-4d57-9491-297e78b47a28</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>gotologin</value>
-      <webElementGuid>6476c2a1-d6a6-4ee4-be66-3450a48625cc</webElementGuid>
+      <webElementGuid>151de78d-fb69-4bbe-8d6a-d769479516a9</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

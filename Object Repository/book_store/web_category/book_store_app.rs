@@ -3,7 +3,7 @@
    <description></description>
    <name>book_store_app</name>
    <tag></tag>
-   <elementGuidId>fb55f602-662f-40dc-a8ed-53934529409e</elementGuidId>
+   <elementGuidId>af17a40f-2072-44b6-8f59-9e672b86718a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id=&quot;app&quot;]/div/div/div/div[1]/div/div/div[6]/span/div/div[1]</value>
-      <webElementGuid>f19fced7-b01d-4e38-9fb5-aa4138ce50e7</webElementGuid>
+      <webElementGuid>30aff5bb-9940-4307-aa22-8a9c72013106</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>login_page</name>
    <tag></tag>
-   <elementGuidId>6d87202d-1b40-4c73-b829-5256a144ec4d</elementGuidId>
+   <elementGuidId>2e71fdc7-76a5-4142-98a5-8b0f9b26c2a3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id=&quot;userForm&quot;]/div[1]/h2</value>
-      <webElementGuid>5b185445-9755-4c32-acf9-b148119760fa</webElementGuid>
+      <webElementGuid>ee51240a-efaf-4715-a37d-588f8f205214</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

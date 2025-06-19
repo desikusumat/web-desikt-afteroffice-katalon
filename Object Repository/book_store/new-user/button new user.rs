@@ -3,7 +3,7 @@
    <description></description>
    <name>button new user</name>
    <tag></tag>
-   <elementGuidId>19d7a470-ff49-484e-8eb4-3ac4b5f5cee0</elementGuidId>
+   <elementGuidId>5c819473-c85f-4397-8120-4095d2c3ec7d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,7 +19,7 @@
       <name>id</name>
       <type>Main</type>
       <value>newUser</value>
-      <webElementGuid>5aa24c40-be76-4ea4-a2b0-4f94cf1eeee4</webElementGuid>
+      <webElementGuid>f2b0e683-fdb3-4af6-a76a-5539912a7bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -27,6 +27,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id=&quot;newUser&quot;]</value>
-      <webElementGuid>b485263b-661c-4aed-b98f-24ee842ef438</webElementGuid>
+      <webElementGuid>57f93af9-531e-4a72-a15c-1f1a5303f848</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

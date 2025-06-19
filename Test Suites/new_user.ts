@@ -10,15 +10,15 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>73a10eb0-6f2c-467c-9699-4a44cee0fc96</testSuiteGuid>
+   <testSuiteGuid>bbd064f2-1882-4450-80a1-f0b0eca25d06</testSuiteGuid>
    <testCaseLink>
-      <guid>dea1f323-6de9-424d-8bd6-ce0f03f92297</guid>
+      <guid>77ce8191-0386-40e3-9c3c-4ed422e05b50</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/book_store/new_user</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>cb6b44be-a304-4988-a128-5109d9022d43</id>
+         <id>3d0d09f7-f970-4261-be47-9ee506753b88</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,40 +27,40 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>cb6b44be-a304-4988-a128-5109d9022d43</testDataLinkId>
+         <testDataLinkId>3d0d09f7-f970-4261-be47-9ee506753b88</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>type</value>
-         <variableId>71d7b542-9186-479c-a868-d34934d32f47</variableId>
+         <variableId>76524898-5835-4a53-a7bc-e997d1244088</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>cb6b44be-a304-4988-a128-5109d9022d43</testDataLinkId>
+         <testDataLinkId>3d0d09f7-f970-4261-be47-9ee506753b88</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>firstname</value>
-         <variableId>83887ba2-65e3-434d-8721-d8ec425a5fc9</variableId>
+         <variableId>a799aeb3-ef19-41e2-9b5c-2338c85b987f</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>cb6b44be-a304-4988-a128-5109d9022d43</testDataLinkId>
+         <testDataLinkId>3d0d09f7-f970-4261-be47-9ee506753b88</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>lastname</value>
-         <variableId>153d10a0-bf00-46e0-96d7-8258a8cc3a7c</variableId>
+         <variableId>06243e47-8ba0-455c-9bb1-9787b9a8db78</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>cb6b44be-a304-4988-a128-5109d9022d43</testDataLinkId>
+         <testDataLinkId>3d0d09f7-f970-4261-be47-9ee506753b88</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username</value>
-         <variableId>9adaf24a-4485-4314-8a9e-496c2778515f</variableId>
+         <variableId>31467c73-7e26-416a-885b-517a5e89facc</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>cb6b44be-a304-4988-a128-5109d9022d43</testDataLinkId>
+         <testDataLinkId>3d0d09f7-f970-4261-be47-9ee506753b88</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password</value>
-         <variableId>63d1a0ff-67bc-4edd-979f-7dc71f7edd9f</variableId>
+         <variableId>fe669957-c018-4ebd-9cdf-ac12e376647c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>cb6b44be-a304-4988-a128-5109d9022d43</testDataLinkId>
+         <testDataLinkId>3d0d09f7-f970-4261-be47-9ee506753b88</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>expectedresult</value>
-         <variableId>64b66d4f-c479-4d42-b99c-5540abb4dd8d</variableId>
+         <variableId>f1a88203-70a9-4f05-90cf-1a39a3322e7a</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

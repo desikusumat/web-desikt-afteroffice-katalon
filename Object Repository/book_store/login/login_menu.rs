@@ -3,7 +3,7 @@
    <description></description>
    <name>login_menu</name>
    <tag></tag>
-   <elementGuidId>0f3ede98-ace3-4fd9-85b8-927c7679e217</elementGuidId>
+   <elementGuidId>17206bdc-3415-4a3c-8df6-38bf5269d4aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[2]/div/div/div/div[1]/div/div/div[6]/div/ul/li[1]</value>
-      <webElementGuid>6d29d4fd-f219-41a6-a29a-c3ce6c3f12b7</webElementGuid>
+      <webElementGuid>a06cb649-b649-49f9-889f-20aac060b010</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

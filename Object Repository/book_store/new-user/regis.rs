@@ -3,7 +3,7 @@
    <description></description>
    <name>regis</name>
    <tag></tag>
-   <elementGuidId>86e6194d-3b66-422b-b887-7f4a0e158fa6</elementGuidId>
+   <elementGuidId>4f7edbcd-dfff-4a0a-a04c-fbfe412a2b22</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id=&quot;app&quot;]/div/div/div/div[2]/div[2]/h1</value>
-      <webElementGuid>27168600-92ca-41d0-abae-4d49850878c0</webElementGuid>
+      <webElementGuid>7c29729a-9528-4320-b75c-f6c1d824c469</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

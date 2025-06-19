@@ -5,82 +5,82 @@
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>148253e9-e9e8-48d1-a5fe-9ef1e90b666e</testCaseGuid>
+   <testCaseGuid>932ae898-489e-4873-8610-132a4e915991</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>fc521b20-deb9-4373-919e-100bd73ffed0</variableId>
+      <variableId>76524898-5835-4a53-a7bc-e997d1244088</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>965cd265-1d36-4ba9-9385-2bd058d8180c</variableId>
+      <variableId>a799aeb3-ef19-41e2-9b5c-2338c85b987f</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>cb205b1a-5cdc-472c-935a-5882d2846cfe</variableId>
+      <variableId>06243e47-8ba0-455c-9bb1-9787b9a8db78</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>7283a849-dd33-4d1d-9cfa-4a61d90a5b4a</variableId>
+      <variableId>31467c73-7e26-416a-885b-517a5e89facc</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>f46ab8b9-e3da-4c5e-80ac-2cf824add0d4</variableId>
+      <variableId>fe669957-c018-4ebd-9cdf-ac12e376647c</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e1c80495-a5a3-44c0-8bc5-723c752cc57e</variableId>
+      <variableId>f1a88203-70a9-4f05-90cf-1a39a3322e7a</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'P'</defaultValue>
       <description></description>
-      <id>fc521b20-deb9-4373-919e-100bd73ffed0</id>
+      <id>76524898-5835-4a53-a7bc-e997d1244088</id>
       <masked>false</masked>
       <name>type</name>
    </variable>
    <variable>
       <defaultValue>'test'</defaultValue>
       <description></description>
-      <id>965cd265-1d36-4ba9-9385-2bd058d8180c</id>
+      <id>a799aeb3-ef19-41e2-9b5c-2338c85b987f</id>
       <masked>false</masked>
       <name>firstname</name>
    </variable>
    <variable>
       <defaultValue>'desi'</defaultValue>
       <description></description>
-      <id>cb205b1a-5cdc-472c-935a-5882d2846cfe</id>
+      <id>06243e47-8ba0-455c-9bb1-9787b9a8db78</id>
       <masked>false</masked>
       <name>lastname</name>
    </variable>
    <variable>
-      <defaultValue>'ngenggg'</defaultValue>
+      <defaultValue>'testaku'</defaultValue>
       <description></description>
-      <id>7283a849-dd33-4d1d-9cfa-4a61d90a5b4a</id>
+      <id>31467c73-7e26-416a-885b-517a5e89facc</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>'B@ndung123.'</defaultValue>
       <description></description>
-      <id>f46ab8b9-e3da-4c5e-80ac-2cf824add0d4</id>
+      <id>fe669957-c018-4ebd-9cdf-ac12e376647c</id>
       <masked>false</masked>
       <name>password</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>e1c80495-a5a3-44c0-8bc5-723c752cc57e</id>
+      <id>f1a88203-70a9-4f05-90cf-1a39a3322e7a</id>
       <masked>false</masked>
       <name>expectedresult</name>
    </variable>
