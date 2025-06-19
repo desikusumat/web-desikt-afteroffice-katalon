@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>regis</name>
+   <tag></tag>
+   <elementGuidId>86e6194d-3b66-422b-b887-7f4a0e158fa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div/div/div[2]/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div/div/div[2]/div[2]/h1</value>
+      <webElementGuid>27168600-92ca-41d0-abae-4d49850878c0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

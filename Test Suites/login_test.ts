@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>login_test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ab9865e9-984f-4845-90e4-ddb14356de20</testSuiteGuid>
+   <testCaseLink>
+      <guid>35a5be9c-228b-413b-b5b2-fbb40017e4ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/book_store/login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>88bd567b-f3d8-4148-b7cf-59a28b5268cc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>88bd567b-f3d8-4148-b7cf-59a28b5268cc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>type</value>
+         <variableId>718b6db9-9c9c-420b-8ab4-6b26eeded66a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>88bd567b-f3d8-4148-b7cf-59a28b5268cc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>ae4e6835-6070-4a05-86c3-3072875b062e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>88bd567b-f3d8-4148-b7cf-59a28b5268cc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>a95cd362-b41e-4c41-a091-df9a34744328</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>88bd567b-f3d8-4148-b7cf-59a28b5268cc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expectedresult</value>
+         <variableId>2a30f573-e787-4d97-ad3b-725d63505b49</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

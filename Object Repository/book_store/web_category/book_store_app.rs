@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>book_store_app</name>
+   <tag></tag>
+   <elementGuidId>fb55f602-662f-40dc-a8ed-53934529409e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div/div/div[1]/div/div/div[6]/span/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div/div/div[1]/div/div/div[6]/span/div/div[1]</value>
+      <webElementGuid>f19fced7-b01d-4e38-9fb5-aa4138ce50e7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

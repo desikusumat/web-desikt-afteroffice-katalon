@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alert_invalid_login</name>
+   <tag></tag>
+   <elementGuidId>6d95532c-ba1a-4647-99af-178c7feb0b21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;name&quot;]</value>
+      <webElementGuid>70049930-4f09-4130-ae67-90435ad2ac39</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

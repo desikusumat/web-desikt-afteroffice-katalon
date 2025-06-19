@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>login_page</name>
+   <tag></tag>
+   <elementGuidId>6d87202d-1b40-4c73-b829-5256a144ec4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;userForm&quot;]/div[1]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;userForm&quot;]/div[1]/h2</value>
+      <webElementGuid>5b185445-9755-4c32-acf9-b148119760fa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>book_category</name>
+   <tag></tag>
+   <elementGuidId>fde1509e-ec29-4abc-ac66-89e7648bfe63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div/div[2]/div/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div/div[2]/div/div[6]</value>
+      <webElementGuid>9e5d21be-59cc-4b23-b256-6ba0584e226b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0ff899da-4588-4e1b-be68-49ace524fc81</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>P testdesi12345 B%40ndung123. null</data>
+   <data>N testdesi12344 B%40ndung123. Invalid+username+or+password%21</data>
+   <data>N testdesi12345 B%40ndung123 Invalid+username+or+password%21</data>
+   <data>N testdesi12344 B%40ndung123 Invalid+username+or+password%21</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>type</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>username</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>password</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>expectedresult</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
